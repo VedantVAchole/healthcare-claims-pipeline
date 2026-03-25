@@ -4,7 +4,7 @@ End-to-end data engineering project analyzing healthcare insurance claims using 
 
 ## Project Overview
 
-**Domain:** Healthcare Insurance (Cigna/HCSC use case)  
+**Domain:** Healthcare Insurance (healthcare insurance providers use case)  
 **Data Volume:** 11,210 rows across 4 normalized tables  
 **Architecture:** Medallion (Bronze → Silver → Gold)  
 **Tech Stack:** AWS S3, Glue, PySpark, Athena, Python
