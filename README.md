@@ -29,7 +29,16 @@ Raw CSV Data      →     Enriched Parquet Data    →    Analytics Tables
                                                       • Regional metrics
                                                       • Patient risk scores
 ```
+## Screenshots
 
+### AWS S3 Gold Layer Structure
+![S3 Gold Layer](images/s3-gold-layer.png)
+
+### AWS Glue Data Catalog - 10 Tables
+![Glue Tables](images/glue-tables.png)
+
+### Amazon Athena Query Results
+![Athena Results](images/athena-results.png)
 ## Data Model
 
 **Star Schema:**
