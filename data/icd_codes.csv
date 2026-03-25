@@ -1,0 +1,11 @@
+code,name,category,severity,avg_cost
+E11.9,Type 2 Diabetes Mellitus,Diabetes,MODERATE,2500
+I25.10,Coronary Artery Disease,Heart Disease,HIGH,35000
+J44.9,COPD,Respiratory,MODERATE,5000
+I10,Hypertension,Heart Disease,MODERATE,1500
+E78.5,Hyperlipidemia,Metabolic,LOW,800
+M17.9,Osteoarthritis of Knee,Musculoskeletal,MODERATE,4000
+F41.1,Generalized Anxiety Disorder,Mental Health,MODERATE,3000
+C50.9,Breast Cancer,Cancer,CRITICAL,85000
+N18.3,Chronic Kidney Disease,Kidney,HIGH,45000
+J45.909,Asthma,Respiratory,MODERATE,2200

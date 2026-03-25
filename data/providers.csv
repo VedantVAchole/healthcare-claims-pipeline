@@ -1,0 +1,201 @@
+provider_id,provider_name,specialty,provider_type,state,city,hospital_name,years_experience,network_tier
+PRV00001,Dr. Ryan Peterson,Oncology,PHYSICIAN,WI,Novakmouth,,15,IN_NETWORK
+PRV00002,Lake Joshuamouth Medical Center,Pulmonology,HOSPITAL,NM,West Angela,Lake Joshuamouth Medical Center,50,IN_NETWORK
+PRV00003,Reynolds-Frazier Pharmacy,Pharmacy,PHARMACY,TN,Millerport,,16,IN_NETWORK
+PRV00004,Marquez Inc Pharmacy,Pharmacy,PHARMACY,KY,South Jennifer,,28,IN_NETWORK
+PRV00005,"Moore, Price and Ward Pharmacy",Pharmacy,PHARMACY,CO,West Seanview,,11,IN_NETWORK
+PRV00006,Dr. Brandon Jordan,Orthopedics,PHYSICIAN,OH,Garcialand,,14,OUT_OF_NETWORK
+PRV00007,Spencer-Carlson Pharmacy,Pharmacy,PHARMACY,WY,Michelletown,,21,IN_NETWORK
+PRV00008,Dr. James Miller,Gastroenterology,PHYSICIAN,MH,New Adriana,,20,IN_NETWORK
+PRV00009,Dr. Caroline Adams,Endocrinology,PHYSICIAN,KY,Thomasburgh,,19,IN_NETWORK
+PRV00010,Hillport Medical Center,Endocrinology,HOSPITAL,NJ,West Johnathanbury,Hillport Medical Center,12,IN_NETWORK
+PRV00011,Wheelerborough Medical Center,Dermatology,HOSPITAL,NH,East Kevinfurt,Wheelerborough Medical Center,13,IN_NETWORK
+PRV00012,Skinner-James Pharmacy,Pharmacy,PHARMACY,VI,Scottchester,,24,OUT_OF_NETWORK
+PRV00013,West Malik Medical Center,Primary Care,HOSPITAL,UT,South Leon,West Malik Medical Center,46,IN_NETWORK
+PRV00014,Dr. Tracy Carter,Neurology,PHYSICIAN,UT,Faulknerbury,,17,OUT_OF_NETWORK
+PRV00015,Bennett-Velasquez Pharmacy,Pharmacy,PHARMACY,MO,Danielshire,,7,IN_NETWORK
+PRV00016,Dr. Zachary White,Gastroenterology,PHYSICIAN,WI,Lake Stevenborough,,28,IN_NETWORK
+PRV00017,Dr. Eddie Schwartz,Pulmonology,PHYSICIAN,GU,Chambersberg,,24,IN_NETWORK
+PRV00018,Johnberg Medical Center,Pulmonology,HOSPITAL,VT,Mccormickland,Johnberg Medical Center,49,IN_NETWORK
+PRV00019,Ewing-Mendoza Pharmacy,Pharmacy,PHARMACY,MO,Stephensstad,,29,OUT_OF_NETWORK
+PRV00020,Dr. Robin Wheeler,Orthopedics,PHYSICIAN,PW,North Kaylastad,,25,IN_NETWORK
+PRV00021,Holland Inc Pharmacy,Pharmacy,PHARMACY,OK,Rasmussenmouth,,24,OUT_OF_NETWORK
+PRV00022,Dr. Jessica Smith,Cardiology,PHYSICIAN,KS,New Julie,,23,IN_NETWORK
+PRV00023,Dr. Melissa Walker,Gastroenterology,PHYSICIAN,MN,Fordshire,,19,IN_NETWORK
+PRV00024,West Whitney Medical Center,Cardiology,HOSPITAL,NJ,West Robertland,West Whitney Medical Center,43,OUT_OF_NETWORK
+PRV00025,Port Sheliaberg Medical Center,Psychiatry,HOSPITAL,MI,Matthewborough,Port Sheliaberg Medical Center,42,IN_NETWORK
+PRV00026,Dr. Hannah Davis,Oncology,PHYSICIAN,VA,Floresport,,15,IN_NETWORK
+PRV00027,Dr. Michael Johnson,Orthopedics,PHYSICIAN,MA,Lake Laurenbury,,13,OUT_OF_NETWORK
+PRV00028,"Thompson, Moore and Castro Pharmacy",Pharmacy,PHARMACY,NH,Port Richard,,22,IN_NETWORK
+PRV00029,Dr. Martin Reynolds,Pulmonology,PHYSICIAN,AK,South Brittany,,16,OUT_OF_NETWORK
+PRV00030,Smithborough Medical Center,Orthopedics,HOSPITAL,IL,Karenland,Smithborough Medical Center,23,IN_NETWORK
+PRV00031,"Garcia, Wiggins and Lopez Pharmacy",Pharmacy,PHARMACY,MD,South Daniel,,28,IN_NETWORK
+PRV00032,"Huffman, Rose and Fowler Pharmacy",Pharmacy,PHARMACY,PA,Carrshire,,7,IN_NETWORK
+PRV00033,Dr. Harold Ellis,Cardiology,PHYSICIAN,HI,Samanthashire,,32,IN_NETWORK
+PRV00034,Dr. Cesar Wilson,Orthopedics,PHYSICIAN,ME,East Nathanielberg,,7,IN_NETWORK
+PRV00035,Barnesberg Medical Center,Psychiatry,HOSPITAL,OK,Hendersonfort,Barnesberg Medical Center,14,IN_NETWORK
+PRV00036,Dr. Melissa Brewer,Oncology,PHYSICIAN,HI,South Keith,,29,IN_NETWORK
+PRV00037,Edwards Group Pharmacy,Pharmacy,PHARMACY,RI,Port Michaeltown,,17,IN_NETWORK
+PRV00038,Dr. Mr. James Hoffman,Gastroenterology,PHYSICIAN,SD,Ortizfort,,10,IN_NETWORK
+PRV00039,Mckinney-Wallace Pharmacy,Pharmacy,PHARMACY,GA,New Anthonybury,,28,IN_NETWORK
+PRV00040,Johnson-Walker Pharmacy,Pharmacy,PHARMACY,LA,Port Stephen,,23,IN_NETWORK
+PRV00041,Dr. Pamela Dunn,Neurology,PHYSICIAN,DE,West Kimberlystad,,35,IN_NETWORK
+PRV00042,"Carson, Williams and Ball Pharmacy",Pharmacy,PHARMACY,ND,South Curtis,,14,IN_NETWORK
+PRV00043,West Nancy Medical Center,Primary Care,HOSPITAL,AZ,Bakerland,West Nancy Medical Center,34,IN_NETWORK
+PRV00044,Grimes-Wilson Pharmacy,Pharmacy,PHARMACY,AS,East Lisa,,5,IN_NETWORK
+PRV00045,"Norris, Callahan and Bishop Pharmacy",Pharmacy,PHARMACY,NE,New Donald,,12,IN_NETWORK
+PRV00046,Port Jamie Medical Center,Psychiatry,HOSPITAL,AR,Amandaside,Port Jamie Medical Center,28,OUT_OF_NETWORK
+PRV00047,Dr. William Carter,Oncology,PHYSICIAN,OK,Stephaniehaven,,26,OUT_OF_NETWORK
+PRV00048,Dr. Miss Anna Estes,Psychiatry,PHYSICIAN,WY,Sellersview,,12,IN_NETWORK
+PRV00049,Dr. Beth Cline,Dermatology,PHYSICIAN,IA,Lake Marc,,28,IN_NETWORK
+PRV00050,Dr. Ryan Long,Oncology,PHYSICIAN,FL,Courtneyfurt,,16,IN_NETWORK
+PRV00051,Jones-Norton Pharmacy,Pharmacy,PHARMACY,WI,South Zacharyview,,16,IN_NETWORK
+PRV00052,"Mayer, Wood and Clements Pharmacy",Pharmacy,PHARMACY,MD,Port Kimland,,21,IN_NETWORK
+PRV00053,Dr. Judy Beck,Pulmonology,PHYSICIAN,MI,Port Amandaborough,,19,IN_NETWORK
+PRV00054,Dr. Samantha Simpson,Dermatology,PHYSICIAN,MD,Matthewshire,,6,OUT_OF_NETWORK
+PRV00055,Knight Group Pharmacy,Pharmacy,PHARMACY,WY,Patriciaton,,19,IN_NETWORK
+PRV00056,Dr. Mark Copeland,Oncology,PHYSICIAN,AK,Port Ericmouth,,7,IN_NETWORK
+PRV00057,Dr. Tyler Harris,Dermatology,PHYSICIAN,UT,Lake Kevin,,34,OUT_OF_NETWORK
+PRV00058,Clarencestad Medical Center,Endocrinology,HOSPITAL,KS,West Elizabethburgh,Clarencestad Medical Center,25,IN_NETWORK
+PRV00059,Sanders LLC Pharmacy,Pharmacy,PHARMACY,VA,South Diana,,7,OUT_OF_NETWORK
+PRV00060,North Jasonland Medical Center,Primary Care,HOSPITAL,DC,New Erin,North Jasonland Medical Center,38,IN_NETWORK
+PRV00061,Smith LLC Pharmacy,Pharmacy,PHARMACY,GU,Port Robertberg,,14,IN_NETWORK
+PRV00062,Dr. Darryl Davis,Dermatology,PHYSICIAN,AS,North Lawrenceport,,26,OUT_OF_NETWORK
+PRV00063,South Kiara Medical Center,Endocrinology,HOSPITAL,WV,Lake Victoria,South Kiara Medical Center,10,IN_NETWORK
+PRV00064,Dr. Joseph Smith,Gastroenterology,PHYSICIAN,SD,South Michael,,20,OUT_OF_NETWORK
+PRV00065,Dr. Paul Gillespie,Neurology,PHYSICIAN,RI,Heathland,,33,IN_NETWORK
+PRV00066,East Karenshire Medical Center,Oncology,HOSPITAL,VA,Bellchester,East Karenshire Medical Center,41,IN_NETWORK
+PRV00067,Dr. Charles Hill,Dermatology,PHYSICIAN,CO,New Carolyn,,8,OUT_OF_NETWORK
+PRV00068,Dr. Dominique Pugh,Psychiatry,PHYSICIAN,AK,Jamiehaven,,15,IN_NETWORK
+PRV00069,Adkins LLC Pharmacy,Pharmacy,PHARMACY,SD,Port Rachaelbury,,7,IN_NETWORK
+PRV00070,Dr. Brian Porter MD,Psychiatry,PHYSICIAN,NC,West Sarahberg,,4,OUT_OF_NETWORK
+PRV00071,Valencia-Carroll Pharmacy,Pharmacy,PHARMACY,MN,Port Thomas,,17,IN_NETWORK
+PRV00072,Dr. Mrs. Laurie Smith,Cardiology,PHYSICIAN,IL,North Stacyfurt,,19,IN_NETWORK
+PRV00073,"Mitchell, Marquez and Wang Pharmacy",Pharmacy,PHARMACY,NE,Millerside,,20,IN_NETWORK
+PRV00074,Dr. Brittany Miller,Neurology,PHYSICIAN,CO,Port Eric,,28,IN_NETWORK
+PRV00075,Myers-Walters Pharmacy,Pharmacy,PHARMACY,MP,West Hollybury,,28,OUT_OF_NETWORK
+PRV00076,Dr. Brandon Hamilton,Primary Care,PHYSICIAN,NH,West Elizabethburgh,,35,IN_NETWORK
+PRV00077,North Jeantown Medical Center,Neurology,HOSPITAL,GA,Bentonhaven,North Jeantown Medical Center,42,IN_NETWORK
+PRV00078,Dr. Samantha Green,Dermatology,PHYSICIAN,MN,Lake Kimberly,,13,IN_NETWORK
+PRV00079,Dr. Stephen Wise,Primary Care,PHYSICIAN,AK,Lindsayview,,13,IN_NETWORK
+PRV00080,"Brown, Joseph and Ray Pharmacy",Pharmacy,PHARMACY,CA,Gibsonstad,,26,OUT_OF_NETWORK
+PRV00081,Dr. Scott Jackson,Primary Care,PHYSICIAN,GA,Kerrishire,,25,IN_NETWORK
+PRV00082,East Joycetown Medical Center,Pulmonology,HOSPITAL,AZ,East Brandonstad,East Joycetown Medical Center,14,IN_NETWORK
+PRV00083,Dr. Chris Velazquez,Cardiology,PHYSICIAN,PR,New Lindachester,,16,IN_NETWORK
+PRV00084,West John Medical Center,Gastroenterology,HOSPITAL,PW,Josephland,West John Medical Center,40,OUT_OF_NETWORK
+PRV00085,Dr. Barbara Nunez,Cardiology,PHYSICIAN,AR,East Linda,,23,IN_NETWORK
+PRV00086,Finley Inc Pharmacy,Pharmacy,PHARMACY,FM,Clineport,,25,OUT_OF_NETWORK
+PRV00087,Miller-Bryant Pharmacy,Pharmacy,PHARMACY,MN,West Anne,,13,IN_NETWORK
+PRV00088,Stevenson-Sanchez Pharmacy,Pharmacy,PHARMACY,MN,Cuevasborough,,10,IN_NETWORK
+PRV00089,East Adam Medical Center,Neurology,HOSPITAL,MT,East Ambertown,East Adam Medical Center,47,IN_NETWORK
+PRV00090,Dr. April Sandoval,Psychiatry,PHYSICIAN,PR,Daltonhaven,,19,IN_NETWORK
+PRV00091,Dr. Mrs. Tonya Kaufman,Psychiatry,PHYSICIAN,FL,Christopherbury,,28,IN_NETWORK
+PRV00092,Haynesstad Medical Center,Primary Care,HOSPITAL,NH,New Codyberg,Haynesstad Medical Center,40,OUT_OF_NETWORK
+PRV00093,Dr. Jennifer Vargas,Psychiatry,PHYSICIAN,AR,Batesberg,,11,IN_NETWORK
+PRV00094,Dr. Dean Edwards,Orthopedics,PHYSICIAN,AS,Haynesmouth,,35,IN_NETWORK
+PRV00095,Dr. Dillon Jones,Endocrinology,PHYSICIAN,ID,Port Kayla,,14,IN_NETWORK
+PRV00096,Moore and Sons Pharmacy,Pharmacy,PHARMACY,NV,Edwardsville,,27,OUT_OF_NETWORK
+PRV00097,"Howard, Townsend and Hayes Pharmacy",Pharmacy,PHARMACY,NH,Melissaland,,12,IN_NETWORK
+PRV00098,Port Gina Medical Center,Orthopedics,HOSPITAL,GU,East Marymouth,Port Gina Medical Center,40,IN_NETWORK
+PRV00099,North Jennifer Medical Center,Pulmonology,HOSPITAL,MI,Palmerport,North Jennifer Medical Center,47,IN_NETWORK
+PRV00100,Loriburgh Medical Center,Cardiology,HOSPITAL,AK,Bondside,Loriburgh Medical Center,25,IN_NETWORK
+PRV00101,"Pierce, Davis and Garcia Pharmacy",Pharmacy,PHARMACY,WY,North Alexander,,23,IN_NETWORK
+PRV00102,Anderson Group Pharmacy,Pharmacy,PHARMACY,MN,New Brendaland,,21,IN_NETWORK
+PRV00103,Osborn and Sons Pharmacy,Pharmacy,PHARMACY,MH,Lambland,,9,IN_NETWORK
+PRV00104,Davidmouth Medical Center,Endocrinology,HOSPITAL,AR,New Ryan,Davidmouth Medical Center,43,OUT_OF_NETWORK
+PRV00105,"Foster, Johnson and Vega Pharmacy",Pharmacy,PHARMACY,HI,Jasonburgh,,23,IN_NETWORK
+PRV00106,Ramirez-Stephenson Pharmacy,Pharmacy,PHARMACY,AZ,Lake Kenneth,,28,IN_NETWORK
+PRV00107,Andradefort Medical Center,Orthopedics,HOSPITAL,AR,West Patrickchester,Andradefort Medical Center,23,IN_NETWORK
+PRV00108,Lake Nicole Medical Center,Primary Care,HOSPITAL,NC,Lake Virginia,Lake Nicole Medical Center,20,IN_NETWORK
+PRV00109,South Kimberlystad Medical Center,Dermatology,HOSPITAL,NJ,Coopershire,South Kimberlystad Medical Center,19,IN_NETWORK
+PRV00110,Dr. Jasmine White,Dermatology,PHYSICIAN,MD,North Paula,,35,IN_NETWORK
+PRV00111,Brown-Frey Pharmacy,Pharmacy,PHARMACY,NC,Katiebury,,26,IN_NETWORK
+PRV00112,North John Medical Center,Dermatology,HOSPITAL,IA,Amandaton,North John Medical Center,47,IN_NETWORK
+PRV00113,New Meghan Medical Center,Gastroenterology,HOSPITAL,AS,Kellyburgh,New Meghan Medical Center,18,IN_NETWORK
+PRV00114,Dr. Kevin Drake,Psychiatry,PHYSICIAN,UT,Robintown,,35,IN_NETWORK
+PRV00115,Dr. Heather Bradley,Dermatology,PHYSICIAN,FL,Port Vanessa,,9,IN_NETWORK
+PRV00116,Weaver-Thompson Pharmacy,Pharmacy,PHARMACY,AZ,North Jessebury,,24,IN_NETWORK
+PRV00117,Fox Inc Pharmacy,Pharmacy,PHARMACY,MA,Port David,,21,IN_NETWORK
+PRV00118,Dr. Tamara Richard,Primary Care,PHYSICIAN,MD,North Dylanberg,,11,OUT_OF_NETWORK
+PRV00119,Mathis LLC Pharmacy,Pharmacy,PHARMACY,CA,Janetfurt,,5,OUT_OF_NETWORK
+PRV00120,"Garcia, Turner and Taylor Pharmacy",Pharmacy,PHARMACY,GA,Connerfort,,25,IN_NETWORK
+PRV00121,Grantside Medical Center,Neurology,HOSPITAL,UT,Jeffreyshire,Grantside Medical Center,12,IN_NETWORK
+PRV00122,South Kurt Medical Center,Pulmonology,HOSPITAL,UT,Davidtown,South Kurt Medical Center,40,IN_NETWORK
+PRV00123,Rosalesshire Medical Center,Neurology,HOSPITAL,AZ,New Lucas,Rosalesshire Medical Center,47,OUT_OF_NETWORK
+PRV00124,"Walker, Cunningham and Zuniga Pharmacy",Pharmacy,PHARMACY,FL,Juliebury,,23,IN_NETWORK
+PRV00125,Dr. Francisco Fields,Oncology,PHYSICIAN,CO,Seanview,,33,IN_NETWORK
+PRV00126,Dr. Michael Bell,Oncology,PHYSICIAN,WY,Lake Aaronfurt,,29,IN_NETWORK
+PRV00127,Dr. Jason Jackson,Cardiology,PHYSICIAN,MT,Maciasstad,,10,IN_NETWORK
+PRV00128,Garciafort Medical Center,Pulmonology,HOSPITAL,WY,East Shannon,Garciafort Medical Center,30,IN_NETWORK
+PRV00129,Dr. Amanda Smith,Endocrinology,PHYSICIAN,KS,North Matthewfurt,,30,IN_NETWORK
+PRV00130,Lake Charles Medical Center,Oncology,HOSPITAL,MH,West Brookefort,Lake Charles Medical Center,44,IN_NETWORK
+PRV00131,South Sherriburgh Medical Center,Dermatology,HOSPITAL,PA,Mooreville,South Sherriburgh Medical Center,27,OUT_OF_NETWORK
+PRV00132,Jamieborough Medical Center,Pulmonology,HOSPITAL,MT,Donnaport,Jamieborough Medical Center,36,IN_NETWORK
+PRV00133,Davis Group Pharmacy,Pharmacy,PHARMACY,OK,Hernandezstad,,20,IN_NETWORK
+PRV00134,Patterson LLC Pharmacy,Pharmacy,PHARMACY,GU,Gonzaleztown,,22,IN_NETWORK
+PRV00135,East Danielle Medical Center,Dermatology,HOSPITAL,CO,Anthonyport,East Danielle Medical Center,32,IN_NETWORK
+PRV00136,Ruizview Medical Center,Endocrinology,HOSPITAL,CO,Lopezfurt,Ruizview Medical Center,17,IN_NETWORK
+PRV00137,Jacobton Medical Center,Endocrinology,HOSPITAL,KS,Marshallbury,Jacobton Medical Center,16,IN_NETWORK
+PRV00138,Anneberg Medical Center,Neurology,HOSPITAL,WV,North Elizabethside,Anneberg Medical Center,45,IN_NETWORK
+PRV00139,Arellano-Lawrence Pharmacy,Pharmacy,PHARMACY,OH,Port Paulhaven,,27,IN_NETWORK
+PRV00140,Sheppardfort Medical Center,Cardiology,HOSPITAL,OK,South Kent,Sheppardfort Medical Center,15,OUT_OF_NETWORK
+PRV00141,Orrton Medical Center,Dermatology,HOSPITAL,NY,North Stacy,Orrton Medical Center,37,IN_NETWORK
+PRV00142,Thompsonburgh Medical Center,Pulmonology,HOSPITAL,IL,East Brad,Thompsonburgh Medical Center,33,IN_NETWORK
+PRV00143,Dr. Michael Harris,Gastroenterology,PHYSICIAN,GU,Port Brooke,,28,IN_NETWORK
+PRV00144,Bartlett-Sloan Pharmacy,Pharmacy,PHARMACY,CA,South Angelaside,,14,IN_NETWORK
+PRV00145,Gates-Stone Pharmacy,Pharmacy,PHARMACY,PW,Port Isabellashire,,6,OUT_OF_NETWORK
+PRV00146,Dr. Jennifer Perry,Primary Care,PHYSICIAN,FL,North Annaville,,31,IN_NETWORK
+PRV00147,Dillon-Beard Pharmacy,Pharmacy,PHARMACY,FM,Bakerfort,,30,IN_NETWORK
+PRV00148,Dr. Kara Jackson,Cardiology,PHYSICIAN,MO,New Charlotte,,35,IN_NETWORK
+PRV00149,Dr. Amanda Preston,Dermatology,PHYSICIAN,MA,North Julie,,13,IN_NETWORK
+PRV00150,Pennytown Medical Center,Pulmonology,HOSPITAL,MA,Larryfort,Pennytown Medical Center,10,OUT_OF_NETWORK
+PRV00151,Dr. Melinda Compton,Oncology,PHYSICIAN,IN,West Terri,,28,IN_NETWORK
+PRV00152,Schroedermouth Medical Center,Gastroenterology,HOSPITAL,KY,Jacobsland,Schroedermouth Medical Center,47,IN_NETWORK
+PRV00153,Dr. Daniel Holloway,Orthopedics,PHYSICIAN,WA,Malonestad,,8,IN_NETWORK
+PRV00154,Robertson and Sons Pharmacy,Pharmacy,PHARMACY,CA,Jennafurt,,22,OUT_OF_NETWORK
+PRV00155,Port Melissa Medical Center,Neurology,HOSPITAL,FM,East Jamesborough,Port Melissa Medical Center,27,IN_NETWORK
+PRV00156,Dr. Danielle Bryant,Primary Care,PHYSICIAN,PW,Janetview,,28,IN_NETWORK
+PRV00157,Madisonhaven Medical Center,Endocrinology,HOSPITAL,MO,Lake Anthonystad,Madisonhaven Medical Center,36,IN_NETWORK
+PRV00158,Wheeler-Thompson Pharmacy,Pharmacy,PHARMACY,VI,Matthewsstad,,7,IN_NETWORK
+PRV00159,Frankview Medical Center,Orthopedics,HOSPITAL,WA,West Anthonyton,Frankview Medical Center,42,OUT_OF_NETWORK
+PRV00160,Nash and Sons Pharmacy,Pharmacy,PHARMACY,PR,Lake Jeffrey,,30,IN_NETWORK
+PRV00161,Adams Group Pharmacy,Pharmacy,PHARMACY,NY,Port Kimberlytown,,19,OUT_OF_NETWORK
+PRV00162,Buck-Holland Pharmacy,Pharmacy,PHARMACY,PA,East Johnnyport,,20,IN_NETWORK
+PRV00163,Rodneyfurt Medical Center,Primary Care,HOSPITAL,PR,Stephenborough,Rodneyfurt Medical Center,39,OUT_OF_NETWORK
+PRV00164,Dr. Michael Holloway,Primary Care,PHYSICIAN,MO,North Williamstad,,10,IN_NETWORK
+PRV00165,Kennethville Medical Center,Pulmonology,HOSPITAL,NJ,West Vanessamouth,Kennethville Medical Center,24,OUT_OF_NETWORK
+PRV00166,Joseport Medical Center,Neurology,HOSPITAL,ID,New Kathy,Joseport Medical Center,43,IN_NETWORK
+PRV00167,Trujillo PLC Pharmacy,Pharmacy,PHARMACY,MO,Erintown,,13,IN_NETWORK
+PRV00168,Dr. Yolanda Green,Gastroenterology,PHYSICIAN,MT,Priceton,,24,IN_NETWORK
+PRV00169,Dr. Wendy Cabrera,Primary Care,PHYSICIAN,MA,Lake Amanda,,23,IN_NETWORK
+PRV00170,Knox-Powers Pharmacy,Pharmacy,PHARMACY,NY,Meganside,,13,IN_NETWORK
+PRV00171,Carter Group Pharmacy,Pharmacy,PHARMACY,DC,Jessicaside,,26,OUT_OF_NETWORK
+PRV00172,Dr. Catherine Frazier,Primary Care,PHYSICIAN,MA,East Michaelport,,15,IN_NETWORK
+PRV00173,Dr. Stephen Watson,Oncology,PHYSICIAN,OR,Stevenville,,16,IN_NETWORK
+PRV00174,Dr. Sean Silva,Dermatology,PHYSICIAN,RI,South Pamelahaven,,25,IN_NETWORK
+PRV00175,Dr. Michael Moreno,Orthopedics,PHYSICIAN,MT,Port Melissaberg,,8,IN_NETWORK
+PRV00176,Cooper PLC Pharmacy,Pharmacy,PHARMACY,MH,Thomasburgh,,20,IN_NETWORK
+PRV00177,Freeman Ltd Pharmacy,Pharmacy,PHARMACY,HI,Cynthiatown,,6,OUT_OF_NETWORK
+PRV00178,Hillburgh Medical Center,Dermatology,HOSPITAL,OK,South Kristen,Hillburgh Medical Center,30,IN_NETWORK
+PRV00179,Anderson Group Pharmacy,Pharmacy,PHARMACY,SC,Powellfort,,13,IN_NETWORK
+PRV00180,Smith-Ferguson Pharmacy,Pharmacy,PHARMACY,VA,Stephaniemouth,,13,IN_NETWORK
+PRV00181,"Lee, Rhodes and Sims Pharmacy",Pharmacy,PHARMACY,IA,Lake Natalie,,9,IN_NETWORK
+PRV00182,Davidfurt Medical Center,Primary Care,HOSPITAL,NY,Garyton,Davidfurt Medical Center,44,IN_NETWORK
+PRV00183,Stacymouth Medical Center,Gastroenterology,HOSPITAL,VA,Ryanberg,Stacymouth Medical Center,21,IN_NETWORK
+PRV00184,Dr. Steven Howard,Psychiatry,PHYSICIAN,ID,Port Richard,,32,IN_NETWORK
+PRV00185,Dr. Nicholas Anderson,Cardiology,PHYSICIAN,VA,New Williamville,,16,IN_NETWORK
+PRV00186,Dr. Matthew Johnson,Neurology,PHYSICIAN,FM,Kelseyton,,26,IN_NETWORK
+PRV00187,Lake Danieltown Medical Center,Endocrinology,HOSPITAL,AR,South Seanville,Lake Danieltown Medical Center,45,IN_NETWORK
+PRV00188,Thomasberg Medical Center,Primary Care,HOSPITAL,IL,West Robertville,Thomasberg Medical Center,49,IN_NETWORK
+PRV00189,Dr. Debra Obrien,Primary Care,PHYSICIAN,DC,Rivasville,,30,IN_NETWORK
+PRV00190,"Higgins, Wilson and Wilson Pharmacy",Pharmacy,PHARMACY,CT,Gonzalezborough,,29,IN_NETWORK
+PRV00191,Marieborough Medical Center,Oncology,HOSPITAL,MI,Phillipston,Marieborough Medical Center,38,IN_NETWORK
+PRV00192,Dr. Susan Watts,Dermatology,PHYSICIAN,NJ,Jimmytown,,17,OUT_OF_NETWORK
+PRV00193,"Davis, Rodriguez and Andrews Pharmacy",Pharmacy,PHARMACY,NM,North Kimberly,,13,OUT_OF_NETWORK
+PRV00194,Cummings Inc Pharmacy,Pharmacy,PHARMACY,MH,Dawnmouth,,18,OUT_OF_NETWORK
+PRV00195,Dr. Elizabeth Marshall MD,Endocrinology,PHYSICIAN,HI,Port Kellymouth,,12,IN_NETWORK
+PRV00196,Dr. Brian York,Endocrinology,PHYSICIAN,FM,North Melissaburgh,,29,IN_NETWORK
+PRV00197,Howard-Kim Pharmacy,Pharmacy,PHARMACY,RI,Natalieland,,21,IN_NETWORK
+PRV00198,Lisaburgh Medical Center,Primary Care,HOSPITAL,DE,Rossmouth,Lisaburgh Medical Center,29,IN_NETWORK
+PRV00199,Houston-Vaughn Pharmacy,Pharmacy,PHARMACY,NJ,Banksburgh,,6,IN_NETWORK
+PRV00200,Anderson Ltd Pharmacy,Pharmacy,PHARMACY,AR,North Robert,,10,IN_NETWORK
